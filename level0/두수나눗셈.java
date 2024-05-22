@@ -12,3 +12,7 @@ public class main {
 		double answer = (double)num1/num2 * 1000;
 		System.out.println((int)answer);
 	}
+
+
+
+	fjlskfjklsadjflksajdfklasjdfklasjdflkajsdfklasjdflkajfkljaslkfdjaslkfdjlak
